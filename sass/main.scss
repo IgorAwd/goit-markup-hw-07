@@ -1,7 +1,6 @@
 @import './utils/variables';
 @import './base/reset';
 @import './utils/visually-hidden';
-@import './utils/placeholders';
 @import './components/backdrop';
 @import './components/container';
 @import './components/header/page-header';
@@ -18,3 +17,4 @@
 @import './components/footer/footer-left-column/address';
 @import './components/footer/middle-column';
 @import './components/footer/right-column';
+@import './components/portfolio';

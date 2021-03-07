@@ -897,6 +897,7 @@ header {
 .portfolio__list-btn {
   display: flex;
   justify-content: center;
+  padding-top: 50px;
 }
 
 .portfolio__portfolio-button {
@@ -927,9 +928,9 @@ header {
   color: #ffffff;
 }
 
-.container--btn {
+/* .container--btn {
   padding-bottom: 50px;
-}
+} */
 
 .portfolio__list-examples {
   display: flex;
